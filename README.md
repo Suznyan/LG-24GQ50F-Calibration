@@ -1,0 +1,1 @@
+# LG-24GQ50F-Calibration
