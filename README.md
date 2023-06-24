@@ -11,10 +11,13 @@ Gamma = Mode 3
 
 Color Temp = Custom
 
-R = 48
+R = 50
 
-G = 43
+G = 45
 
-B = 44
+B = 46
 
 Black Level = High
+
+# Quickgamma
+2.20 - 2.46 - 2.49
