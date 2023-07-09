@@ -11,10 +11,6 @@ Contrast = 70
 
 Gamma = Mode 2
 
-R = 46
-
-G = 50
-
-B = 46
+R/G/B: 46-50-46 / 45-50-48
 
 Black Level = High
