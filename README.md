@@ -3,21 +3,18 @@ Gamer Mode = Gamer 1
 
 FreeSync Premium = OFF
 
-1ms Motion Blur Reduction = ON
+1ms Motion Blur Reduction = OFF
+
+Brightness: 19
 
 Contrast = 70
 
-Gamma = Mode 3
+Gamma = Mode 2
 
-Color Temp = Custom
+R = 46
 
-R = 50
-
-G = 45
+G = 50
 
 B = 46
 
 Black Level = High
-
-# Quickgamma
-2.20 - 2.46 - 2.49
