@@ -3,9 +3,12 @@ Gamer Mode = Gamer 1
 
 FreeSync Premium = OFF
 
+~100 cd/m2 brightness: 
 1ms Motion Blur Reduction = OFF
-
 Brightness: 19
+/
+1ms Motion Blur Reduction = ON
+Brightness: 42
 
 Contrast = 70
 
