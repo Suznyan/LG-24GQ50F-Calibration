@@ -12,6 +12,8 @@ Brightness: 42
 
 Contrast = 70
 
+Black stabilizer = 50
+
 Gamma = Mode 2
 
 R/G/B: 46-50-46 / 45-50-48
